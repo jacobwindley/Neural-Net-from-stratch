@@ -1,0 +1,1 @@
+This is a simple Neural Network created using a sigmoid activation funciton and biases = 0. This code is based on the walkthrough by James Loy found at https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6
